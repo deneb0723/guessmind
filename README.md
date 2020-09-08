@@ -4,7 +4,8 @@
 
 ---
 
-- [ ] Server
-- [ ] Pug
-- [ ] Stactic
-- [ ] SocketIO
+- [x] Server
+- [x] Pug
+- [x] Stactic
+- [x] Eslint
+- [x] SocketIO
