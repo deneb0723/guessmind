@@ -1,3 +1,4 @@
+// eslint-disable-next-line prettier/prettier
 import {
     initSockets
 } from "./sockets";
